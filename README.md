@@ -11,7 +11,7 @@ Skills: MongoDB / React / Express / NodeJS / C++ / Next.js / AWS Solution Archit
 - 📫 How to reach me: yuvrajreactofficial@gmail.com
 - ⚡ Fun fact: Comedy
 
-/* ![](https://pbs.twimg.com/profile_banners/1549743464312516608/1663420872/1080x360) */
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/yuvraj042003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuvraj-singh-603b61209/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/yuvraj1654)  
 
