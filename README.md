@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Hi there 👋, I'm YUVRAJ SINGH</h1>
+<h1 align="center">Hi there 👋, I'm Yuvraj Singh</h1>
 Sure, I can help you create a GitHub Profile README! Here's a template to get you started:
 
 Hi there 👋, I'm Yuvraj Singh!
