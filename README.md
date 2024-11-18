@@ -1,8 +1,6 @@
 ### 
 <h1 align="center">Hi there 👋, I'm Yuvraj Singh</h1>
-Sure, I can help you create a GitHub Profile README! Here's a template to get you started:
 
-Hi there 👋, I'm Yuvraj Singh!
 
 🌟 About Me   I'm a passionate **Full Stack Developer** continuously striving to learn new skills and technologies which in turn help me to develop robust and responsive quality software.
 
